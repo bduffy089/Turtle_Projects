@@ -1,6 +1,5 @@
-
-# This program creates house
-# Britney Duffy 
+# Drawing houses with Turtles
+# by Britney Duffy 
 
 import turtle
 
