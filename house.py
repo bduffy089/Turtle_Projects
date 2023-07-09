@@ -1,3 +1,7 @@
+
+# This program creates house
+# Britney Duffy 
+
 import turtle
 
 turtle.shape("square")  # optional
