@@ -7,6 +7,10 @@ turtle.shape("square")  # optional
 turtle.speed(5)  # optional
 turtle.pensize(5)
 
+def house(len):
+    square(size)
+    triangle(size)
+
 def square(len):
     for i in range(4):
         turtle.forward(len)
@@ -22,9 +26,6 @@ def rectangle(width, height):
         turtle.left(90)
         turtle.forward(height)
         turtle.left(90)
-def house(len):
-    square(size)
-    triangle(size)
 
 def back(len):
     turtle.penup()
