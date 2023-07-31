@@ -15,6 +15,7 @@ def square(len):
     for i in range(4):
         turtle.forward(len)
         turtle.right(90)
+        
 def triangle(len):
     for i in range(3):
         turtle.forward(len)
